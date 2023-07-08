@@ -1,0 +1,38 @@
+2023-05-24 13:34:18.220 [info] 
+
+
+
+
+2023-05-24 13:34:18.390 [info] Extension host agent started.
+2023-05-24 13:34:19.142 [info] [127.0.0.1][2bae1e01][ManagementConnection] New connection established.
+2023-05-24 13:34:19.478 [info] [127.0.0.1][28354be3][ExtensionHostConnection] New connection established.
+2023-05-24 13:34:19.532 [info] [127.0.0.1][28354be3][ExtensionHostConnection] <242> Launched Extension Host Process.
+2023-05-24 13:34:28.728 [info] Getting Manifest... ms-python.python
+2023-05-24 13:34:28.729 [info] Getting Manifest... ms-python.vscode-pylance
+2023-05-24 13:34:28.729 [info] Getting Manifest... ms-toolsai.jupyter
+2023-05-24 13:34:28.957 [info] Installing extension: ms-python.python
+2023-05-24 13:34:28.970 [info] Installing extension: ms-toolsai.jupyter
+2023-05-24 13:34:29.021 [info] Installing extension: ms-python.vscode-pylance
+2023-05-24 13:34:30.590 [info] Getting Manifest... ms-python.python
+2023-05-24 13:34:31.065 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-05-24 13:34:41.777 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-05-24 13:34:42.525 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-05-24 13:34:43.801 [info] Extracted extension to /home/drstrange/.vscode-server/extensions/.4da45b6a-8828-4de1-b14d-db5fd598070c: ms-toolsai.jupyter
+2023-05-24 13:34:43.852 [info] Renamed to /home/drstrange/.vscode-server/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-05-24 13:34:43.913 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-05-24 13:34:43.931 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-05-24 13:34:43.957 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.3.1201040234
+2023-05-24 13:34:44.866 [info] Extension signature is verified: ms-python.python
+2023-05-24 13:34:55.032 [info] Extracted extension to /home/drstrange/.vscode-server/extensions/.f5f41b99-a64d-4902-ab85-49a248a372ae: ms-python.python
+2023-05-24 13:34:55.247 [info] Renamed to /home/drstrange/.vscode-server/extensions/ms-python.python-2023.8.0
+2023-05-24 13:34:55.292 [info] Extracting extension completed. ms-python.python
+2023-05-24 13:34:55.317 [info] Extension installed successfully: ms-python.python
+2023-05-24 13:34:55.324 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-05-24 13:34:55.361 [info] Marked extension as uninstalled ms-python.python-2023.6.1
+2023-05-24 13:35:03.168 [info] Extracted extension to /home/drstrange/.vscode-server/extensions/.a4b4dae6-8459-4972-88f8-dd382f3434e0: ms-python.vscode-pylance
+2023-05-24 13:35:03.465 [info] Renamed to /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30
+2023-05-24 13:35:03.490 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-05-24 13:35:03.500 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-05-24 13:35:03.519 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.4.40
+2023-05-24 14:14:52.285 [info] [127.0.0.1][2bae1e01][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-24 14:14:52.464 [info] [127.0.0.1][28354be3][ExtensionHostConnection] <242> Extension Host Process exited with code: 0, signal: null.

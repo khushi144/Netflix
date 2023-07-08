@@ -1,0 +1,17 @@
+[Info  - 2:54:02 PM] (115) Pylance language server 2023.4.10 (pyright d7616109) starting
+[Info  - 2:54:02 PM] (115) Server root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 2:54:03 PM] (115) Starting service instance "Ecommerce"
+[Info  - 2:54:03 PM] (115) Background analysis(1) root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 2:54:03 PM] (115) Background analysis(1) started
+[Info  - 2:54:03 PM] (115) Setting pythonPath for service "Ecommerce": "/bin/python3"
+[Warn  - 2:54:03 PM] (115) stubPath /home/drstrange/wsl_ecommerce/Ecommerce/typings is not a valid directory.
+[Info  - 2:54:04 PM] (115) Assuming Python version 3.10
+[Info  - 2:54:04 PM] (115) Found 18 source files
+[Info  - 2:54:05 PM] (115) Indexer background runner(2) root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist (index)
+[Info  - 2:54:05 PM] (115) Indexing(2) started
+[Info  - 2:54:08 PM] (115) [IDX(2)] Long operation: scan packages /home/drstrange/wsl_ecommerce/Ecommerce (3018ms)
+[Info  - 2:54:08 PM] (115) scanned(2) 103 files over 1 exec env
+[Info  - 2:54:17 PM] (115) [IDX(2)] Long operation: index execution environment /home/drstrange/wsl_ecommerce/Ecommerce (8315ms)
+[Info  - 2:54:17 PM] (115) [IDX(2)] Long operation: index packages /home/drstrange/wsl_ecommerce/Ecommerce (8349ms)
+[Info  - 2:54:17 PM] (115) indexed(2) 67 files over 1 exec env
+[Info  - 2:54:17 PM] (115) Indexing finished(2).

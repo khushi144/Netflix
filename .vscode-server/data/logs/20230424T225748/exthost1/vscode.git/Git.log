@@ -1,0 +1,22 @@
+2023-04-24 22:58:03.660 [info] Log level: Info
+2023-04-24 22:58:03.660 [info] Validating found git in: "git"
+2023-04-24 22:58:03.660 [info] Using git "2.34.1" from "git"
+2023-04-24 22:58:03.660 [info] > git rev-parse --show-toplevel [537ms]
+2023-04-24 22:58:04.189 [info] > git rev-parse --git-dir --git-common-dir [432ms]
+2023-04-24 22:58:04.218 [info] Open repository: /home/drstrange/wsl_Netf/NetflixClone
+2023-04-24 22:58:04.488 [info] > git rev-parse --show-toplevel [171ms]
+2023-04-24 22:58:04.628 [info] > git config --get commit.template [184ms]
+2023-04-24 22:58:04.637 [info] > git rev-parse --show-toplevel [29ms]
+2023-04-24 22:58:04.890 [info] > git rev-parse --show-toplevel [171ms]
+2023-04-24 22:58:05.070 [info] > git rev-parse --show-toplevel [104ms]
+2023-04-24 22:58:05.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [365ms]
+2023-04-24 22:58:05.276 [info] > git check-ignore -v -z --stdin [227ms]
+2023-04-24 22:58:05.283 [info] > git rev-parse --show-toplevel [122ms]
+2023-04-24 22:58:05.393 [info] > git rev-parse --show-toplevel [33ms]
+2023-04-24 22:58:05.563 [info] > git show --textconv :netclone/settings.py [80ms]
+2023-04-24 22:58:05.570 [info] > git ls-files --stage -- /home/drstrange/wsl_Netf/NetflixClone/netclone/settings.py [17ms]
+2023-04-24 22:58:05.668 [info] > git cat-file -s 46be8604c6486a5991d738c204c964f203baaa67 [29ms]
+2023-04-24 22:58:06.111 [info] > git status -z -uall [873ms]
+2023-04-24 22:58:06.363 [info] > git config --get commit.template [140ms]
+2023-04-24 22:58:06.589 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2023-04-24 22:58:06.954 [info] > git status -z -uall [268ms]

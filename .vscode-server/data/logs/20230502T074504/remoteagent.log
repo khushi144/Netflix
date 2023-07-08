@@ -1,0 +1,24 @@
+2023-05-02 07:45:04.397 [info] 
+
+
+
+
+2023-05-02 07:45:04.577 [info] Extension host agent started.
+2023-05-02 07:45:05.274 [info] [127.0.0.1][2804135c][ManagementConnection] New connection established.
+2023-05-02 07:45:06.197 [info] [127.0.0.1][5e6104aa][ExtensionHostConnection] New connection established.
+2023-05-02 07:45:06.262 [info] [127.0.0.1][5e6104aa][ExtensionHostConnection] <110> Launched Extension Host Process.
+2023-05-02 07:45:11.087 [info] Getting Manifest... ms-python.vscode-pylance
+2023-05-02 07:45:11.271 [info] Installing extension: ms-python.vscode-pylance
+2023-05-02 07:45:12.246 [info] Getting Manifest... ms-python.python
+2023-05-02 07:45:25.874 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-05-02 07:46:06.640 [info] Extracted extension to /home/drstrange/.vscode-server/extensions/.1951765d-3111-4b46-8b83-8dad967334c6: ms-python.vscode-pylance
+2023-05-02 07:46:06.995 [info] Renamed to /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.40
+2023-05-02 07:46:07.027 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-05-02 07:46:07.049 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-05-02 07:46:07.063 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.4.30
+2023-05-02 11:32:44.280 [info] [127.0.0.1][5e6104aa][ExtensionHostConnection] The client has reconnected.
+2023-05-02 11:32:44.677 [info] [127.0.0.1][2804135c][ManagementConnection] The client has reconnected.
+2023-05-02 13:14:59.686 [info] [127.0.0.1][2804135c][ManagementConnection] The client has reconnected.
+2023-05-02 13:15:00.027 [info] [127.0.0.1][5e6104aa][ExtensionHostConnection] The client has reconnected.
+2023-05-02 13:16:34.310 [info] [127.0.0.1][2804135c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-02 13:16:34.586 [info] [127.0.0.1][5e6104aa][ExtensionHostConnection] <110> Extension Host Process exited with code: 0, signal: null.

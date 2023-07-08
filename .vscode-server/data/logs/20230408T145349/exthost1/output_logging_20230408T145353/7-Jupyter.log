@@ -1,0 +1,15 @@
+Visual Studio Code (1.76.2, wsl, desktop)
+Jupyter Extension Version: 2023.2.1200692131.
+Python Extension Version: 2023.4.1.
+Workspace folder /home/drstrange/wsl_ecommerce/Ecommerce
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTest'
+info 14:54:01.937: LSP Notebooks experiment is enabled
+warn 14:54:03.127: Failed to get activated env vars with python /bin/python3 in 930ms
+info 14:54:03.491: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+info 14:54:03.991: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 14:59:00.672: Shutting down notebooks for cc463824-dfe5-4b7e-a397-4985218cd38a
+info 14:59:00.672: Disposing HostJupyterExecution 53ec17e8-04d7-4184-9e59-ad0e8d7d1b32
+info 14:59:00.673: Disposing HostJupyterExecution 53ec17e8-04d7-4184-9e59-ad0e8d7d1b32

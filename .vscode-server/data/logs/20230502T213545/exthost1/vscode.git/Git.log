@@ -1,0 +1,27 @@
+2023-05-02 21:36:00.777 [info] Log level: Info
+2023-05-02 21:36:00.777 [info] Validating found git in: "git"
+2023-05-02 21:36:00.777 [info] Using git "2.34.1" from "git"
+2023-05-02 21:36:00.815 [info] > git rev-parse --show-toplevel [491ms]
+2023-05-02 21:36:01.236 [info] > git rev-parse --git-dir --git-common-dir [188ms]
+2023-05-02 21:36:01.257 [info] Open repository: /home/drstrange/wsl_Netf/NetflixClone
+2023-05-02 21:36:01.476 [info] > git config --get commit.template [72ms]
+2023-05-02 21:36:01.477 [info] > git rev-parse --show-toplevel [153ms]
+2023-05-02 21:36:01.672 [info] > git rev-parse --show-toplevel [119ms]
+2023-05-02 21:36:01.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [151ms]
+2023-05-02 21:36:01.966 [info] > git rev-parse --show-toplevel [187ms]
+2023-05-02 21:36:02.125 [info] > git rev-parse --show-toplevel [86ms]
+2023-05-02 21:36:02.208 [info] > git check-ignore -v -z --stdin [98ms]
+2023-05-02 21:36:02.220 [info] > git rev-parse --show-toplevel [33ms]
+2023-05-02 21:36:02.320 [info] > git rev-parse --show-toplevel [18ms]
+2023-05-02 21:36:02.477 [info] > git show --textconv :netclone/urls.py [81ms]
+2023-05-02 21:36:02.554 [info] > git ls-files --stage -- /home/drstrange/wsl_Netf/NetflixClone/netclone/urls.py [86ms]
+2023-05-02 21:36:02.636 [info] > git status -z -uall [754ms]
+2023-05-02 21:36:02.637 [info] > git cat-file -s 20a752636fbbb3860026dc0bf6a953cb81f08ef4 [16ms]
+2023-05-02 21:36:02.733 [info] > git config --get commit.template [13ms]
+2023-05-02 21:36:02.865 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [61ms]
+2023-05-02 21:36:03.152 [info] > git status -z -uall [216ms]
+2023-05-02 22:08:06.703 [info] > git config --get commit.template [68ms]
+2023-05-02 22:08:06.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2023-05-02 22:08:07.091 [info] > git status -z -uall [292ms]
+2023-05-02 22:15:31.369 [info] > git show --textconv :print.txt [60ms]
+2023-05-02 22:15:31.376 [info] > git ls-files --stage -- /home/drstrange/wsl_Netf/NetflixClone/print.txt [11ms]

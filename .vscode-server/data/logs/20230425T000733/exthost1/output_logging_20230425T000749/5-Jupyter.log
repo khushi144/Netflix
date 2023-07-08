@@ -1,0 +1,16 @@
+Visual Studio Code (1.77.3, wsl, desktop)
+Jupyter Extension Version: 2023.3.1201040234.
+Python Extension Version: 2023.6.1.
+Workspace folder /home/drstrange/wsl_Netf/NetflixClone
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTest'
+info 00:07:53.263: LSP Notebooks experiment is enabled
+warn 00:07:56.993: Failed to get activated env vars for /bin/python3 in 1115ms
+info 00:07:57.266: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+error 00:07:57.426: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 00:07:57.482: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 00:39:14.300: Shutting down notebooks for 5e0cca54-9a81-4069-95de-0ac7681d54a6
+info 00:39:14.301: Disposing HostJupyterExecution dfd88c3f-c4e0-47a3-b9b6-eae5c5edcb06
+info 00:39:14.304: Disposing HostJupyterExecution dfd88c3f-c4e0-47a3-b9b6-eae5c5edcb06

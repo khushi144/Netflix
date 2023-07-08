@@ -1,0 +1,12 @@
+2023-05-30 12:45:26.197 [info] 
+
+
+
+
+2023-05-30 12:45:26.342 [info] Extension host agent started.
+2023-05-30 12:45:27.020 [info] [127.0.0.1][a0086bae][ManagementConnection] New connection established.
+2023-05-30 12:45:27.596 [info] [127.0.0.1][ce7e6816][ExtensionHostConnection] New connection established.
+2023-05-30 12:45:27.751 [info] Deleted from disk ms-python.vscode-pylance /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.30
+2023-05-30 12:45:27.933 [info] [127.0.0.1][ce7e6816][ExtensionHostConnection] <110> Launched Extension Host Process.
+2023-05-30 12:50:26.547 [info] [127.0.0.1][a0086bae][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-30 12:50:26.767 [info] [127.0.0.1][ce7e6816][ExtensionHostConnection] <110> Extension Host Process exited with code: 0, signal: null.

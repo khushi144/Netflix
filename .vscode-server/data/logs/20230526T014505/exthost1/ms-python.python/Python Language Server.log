@@ -1,0 +1,20 @@
+2023-05-26 01:45:21.175 [info] [Info  - 1:45:21 AM] (247) Pylance language server 2023.5.30 (pyright e1b6074b) starting
+2023-05-26 01:45:21.176 [info] [Info  - 1:45:21 AM] (247) Server root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30/dist
+2023-05-26 01:45:21.176 [info] [Info  - 1:45:21 AM] (247) Starting service instance "NetflixClone"
+2023-05-26 01:45:21.283 [info] [Info  - 1:45:21 AM] (247) Setting pythonPath for service "NetflixClone": "/bin/python3"
+2023-05-26 01:45:21.295 [info] [Warn  - 1:45:21 AM] (247) stubPath /home/drstrange/wsl_Netf/NetflixClone/typings is not a valid directory.
+2023-05-26 01:45:21.398 [info] [Info  - 1:45:21 AM] (247) Assuming Python version 3.10
+2023-05-26 01:45:21.824 [info] [Info  - 1:45:21 AM] (247) Found 15 source files
+2023-05-26 01:45:23.341 [info] [Info  - 1:45:23 AM] (247) Background analysis(1) root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30/dist
+2023-05-26 01:45:23.342 [info] [Info  - 1:45:23 AM] (247) Background analysis(1) started
+2023-05-26 01:45:23.703 [info] [Info  - 1:45:23 AM] (247) Indexer background runner(2) root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30/dist (index)
+2023-05-26 01:45:23.703 [info] [Info  - 1:45:23 AM] (247) Indexing(2) started
+2023-05-26 01:45:28.547 [info] [Info  - 1:45:28 AM] (247) [IDX(2)] Long operation: scan packages /home/drstrange/wsl_Netf/NetflixClone (4275ms)
+2023-05-26 01:45:28.548 [info] [Info  - 1:45:28 AM] (247) scanned(2) 103 files over 1 exec env
+2023-05-26 01:45:42.232 [info] [Info  - 1:45:42 AM] (247) [IDX(2)] Long operation: parsing: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30/dist/typeshed-fallback/stubs/stripe/stripe/api_resources/__init__.pyi (2167ms)
+2023-05-26 01:45:42.246 [info] [Info  - 1:45:42 AM] (247) [IDX(2)] Long operation: binding: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30/dist/typeshed-fallback/stubs/stripe/stripe/__init__.pyi (2301ms)
+2023-05-26 01:45:42.309 [info] [Info  - 1:45:42 AM] (247) [IDX(2)] Long operation: indexing: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.5.30/dist/typeshed-fallback/stubs/stripe/stripe/__init__.pyi (7115ms)
+2023-05-26 01:45:47.433 [info] [Info  - 1:45:47 AM] (247) [IDX(2)] Long operation: index execution environment /home/drstrange/wsl_Netf/NetflixClone (18631ms)
+2023-05-26 01:45:47.471 [info] [Info  - 1:45:47 AM] (247) [IDX(2)] Long operation: index packages /home/drstrange/wsl_Netf/NetflixClone (18706ms)
+2023-05-26 01:45:47.471 [info] [Info  - 1:45:47 AM] (247) indexed(2) 67 files over 1 exec env
+2023-05-26 01:45:47.508 [info] [Info  - 1:45:47 AM] (247) Indexing finished(2).

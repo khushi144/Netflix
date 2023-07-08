@@ -1,0 +1,15 @@
+Visual Studio Code (1.78.2, wsl, desktop)
+Jupyter Extension Version: 2023.4.1011241018.
+Python Extension Version: 2023.8.0.
+Platform: linux (x64).
+Workspace folder ~/wsl_Netf/NetflixClone, Home = /home/drstrange
+01:45:14.058 [info] Start refreshing Kernel Picker (1685045714057)
+01:45:14.244 [info] Using Pylance
+01:45:17.603 [warn] Failed to get activated env vars for /bin/python3 in 1070ms
+01:45:18.424 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+01:45:18.845 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+01:45:18.949 [info] Process Execution: /bin/python3 -m pip list
+01:45:20.891 [info] End refreshing Kernel Picker (1685045714057)
+03:08:25.567 [info] Shutting down notebooks for 5c3bd6c8-d280-45e7-9d7e-1d0d58e8ae2a
+03:08:25.568 [info] Disposing HostJupyterExecution 24cc48c4-7286-4c54-80e2-2b17f0338c90
+03:08:25.572 [info] Disposing HostJupyterExecution 24cc48c4-7286-4c54-80e2-2b17f0338c90

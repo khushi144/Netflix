@@ -1,0 +1,80 @@
+2023-05-24 13:34:22.506 [info] Extension host with pid 242 started
+2023-05-24 13:34:22.638 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-24 13:34:22.773 [info] Lock '/home/drstrange/.vscode-server/data/User/workspaceStorage/464ae52e75428f05fa925c266318af49/vscode.lock': Lock acquired.
+2023-05-24 13:34:23.272 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-24 13:34:23.274 [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete, startup: true, activationEvent: '*'
+2023-05-24 13:34:23.344 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2023-05-24 13:34:24.125 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-24 13:34:24.126 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-24 13:34:24.883 [info] Eager extensions activated
+2023-05-24 13:34:24.883 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-24 13:34:24.884 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-24 13:34:25.674 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-05-24 13:34:25.675 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-05-24 13:34:26.127 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-05-24 13:34:50.251 [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+2023-05-24 13:34:50.252 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-05-24 13:34:50.253 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2023-05-24 13:34:50.253 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-05-24 13:34:50.254 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-05-24 13:34:54.009 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-05-24 13:35:01.549 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-24 14:14:52.284 [info] Extension host terminating: received terminate message from renderer
+2023-05-24 14:14:52.285 [info] Lock '/home/drstrange/.vscode-server/data/User/workspaceStorage/464ae52e75428f05fa925c266318af49/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-24 14:14:52.373 [error] Canceled: Canceled
+	at new l (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:104563)
+	at a.O (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:111:11657)
+	at Proxy.H.<computed>.x.charCodeAt.H.<computed> (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:111:8947)
+	at e.ExtHostCommands.g (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:124729)
+	at e.ExtHostCommands.executeCommand (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:124105)
+	at C.registerCommand.description (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:123398)
+	at e.ExtHostCommands.h (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:125315)
+	at e.ExtHostCommands.g (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:124205)
+	at e.ExtHostCommands.executeCommand (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:99:124105)
+	at Object.executeCommand (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:117:24043)
+	at D (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/main.js:2:1274494)
+	at /home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:97:12369)
+	at t.dispose (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:97:12504)
+	at t.<anonymous> (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:97:12504)
+	at P (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:113:11173)
+	at /home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:113:9157
+	at Array.map (<anonymous>)
+	at v.R (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:113:9144)
+	at v.terminate (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:113:9415)
+	at d.terminate (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at g (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:34439)
+	at /home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:32349
+	at v.invoke (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at u.E (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:20039)
+	at y.acceptFrame (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:19845)
+	at h.l (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:18438)
+	at /home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:15775
+	at Socket.n (/home/drstrange/.vscode-server/bin/252e5463d60e63238250799aef7375787f68b4ee/out/vs/workbench/api/node/extensionHostProcess.js:127:13609)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-05-24 14:14:52.406 [info] Extension host with pid 242 exiting with code 0

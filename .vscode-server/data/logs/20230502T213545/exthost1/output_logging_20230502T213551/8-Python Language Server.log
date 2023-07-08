@@ -1,0 +1,18 @@
+[Info  - 9:36:05 PM] (205) Pylance language server 2023.4.40 (pyright 5b6a1d3b) starting
+[Info  - 9:36:06 PM] (205) Server root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.40/dist
+[Info  - 9:36:06 PM] (205) Starting service instance "NetflixClone"
+[Info  - 9:36:06 PM] (205) Setting pythonPath for service "NetflixClone": "/bin/python3"
+[Warn  - 9:36:06 PM] (205) stubPath /home/drstrange/wsl_Netf/NetflixClone/typings is not a valid directory.
+[Info  - 9:36:06 PM] (205) Assuming Python version 3.10
+[Info  - 9:36:06 PM] (205) Found 15 source files
+[Info  - 9:36:08 PM] (205) Background analysis(1) root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.40/dist
+[Info  - 9:36:08 PM] (205) Background analysis(1) started
+[Info  - 9:36:08 PM] (205) Indexer background runner(2) root directory: /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.40/dist (index)
+[Info  - 9:36:08 PM] (205) Indexing(2) started
+[Info  - 9:36:10 PM] (205) [BG(1)] Long operation: getSemanticTokens full at /home/drstrange/wsl_Netf/NetflixClone/netclone/urls.py (2327ms)
+[Info  - 9:36:12 PM] (205) [IDX(2)] Long operation: scan packages /home/drstrange/wsl_Netf/NetflixClone (3598ms)
+[Info  - 9:36:12 PM] (205) scanned(2) 103 files over 1 exec env
+[Info  - 9:36:25 PM] (205) [IDX(2)] Long operation: index execution environment /home/drstrange/wsl_Netf/NetflixClone (13342ms)
+[Info  - 9:36:25 PM] (205) [IDX(2)] Long operation: index packages /home/drstrange/wsl_Netf/NetflixClone (13412ms)
+[Info  - 9:36:25 PM] (205) indexed(2) 67 files over 1 exec env
+[Info  - 9:36:25 PM] (205) Indexing finished(2).

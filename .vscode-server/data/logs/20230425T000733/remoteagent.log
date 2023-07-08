@@ -1,0 +1,17 @@
+2023-04-25 00:07:33.752 [info] 
+
+
+
+
+2023-04-25 00:07:33.867 [info] Extension host agent started.
+2023-04-25 00:07:34.629 [info] [127.0.0.1][5da68bcc][ManagementConnection] New connection established.
+2023-04-25 00:07:34.717 [info] Deleted from disk ms-python.python /home/drstrange/.vscode-server/extensions/ms-python.python-2023.4.1
+2023-04-25 00:07:34.719 [info] Deleted from disk ms-python.vscode-pylance /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20
+2023-04-25 00:07:34.722 [info] Deleted from disk ms-python.vscode-pylance /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10
+2023-04-25 00:07:34.726 [info] Deleted from disk ms-python.vscode-pylance /home/drstrange/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.20
+2023-04-25 00:07:34.739 [info] Deleted from disk ms-python.python /home/drstrange/.vscode-server/extensions/ms-python.python-2023.6.0
+2023-04-25 00:07:34.740 [info] Deleted from disk ms-toolsai.jupyter /home/drstrange/.vscode-server/extensions/ms-toolsai.jupyter-2023.2.1200692131
+2023-04-25 00:07:35.000 [info] [127.0.0.1][03ac6919][ExtensionHostConnection] New connection established.
+2023-04-25 00:07:35.117 [info] [127.0.0.1][03ac6919][ExtensionHostConnection] <130> Launched Extension Host Process.
+2023-04-25 00:39:14.243 [info] [127.0.0.1][5da68bcc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-25 00:39:14.443 [info] [127.0.0.1][03ac6919][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
