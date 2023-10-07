@@ -1,0 +1,3 @@
+[submodule "wsl_Netf/wsl_Netf/NetFlixClone"]
+	path = wsl_Netf/wsl_Netf/NetFlixClone
+	url = https://github.com/khushi144/NetFlixClone.git
